@@ -7,7 +7,7 @@ After preprocessing of data, in this jupyter notebook, a Neural Network binary c
 
 Different techniques and several adjustments are applied to optimize the model and improve its accuracy. However, none of the techniques have resulted in better accuracy which probably demonstartes that more training data is required to improve the performance of model.
 
-A highlight of various modifications in hyperparameters of the model are as below.
+A highlight of various modifications in hyperparameters of the models are as below.
 
 * The orignal model was started with 2 layers and number of neurons for hidden layers were equal to mean of input and output layer(1).
 * The second model was altered with 3 hidden layers. This model chosen to increase the depth rather than making it more expansive. Deeper models are assumed to be robust and efficient (2).This model resulted in  slightly better results than the original model.
